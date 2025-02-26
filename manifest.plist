@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://s3.filebin.net/filebin/ccccfd420cee21d5c6cbe59b3cc846c1986dbe9e9b67aa51264374d40d21cb61/95eb6b29a1c251e22b00b905c19864fa90f559b64d0a816ee7921fe456aa60d8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7pMj6hGeoKewqmMQILjm%2F20250226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250226T130536Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D60&response-content-disposition=filename%3D%22App.ipa%22&response-content-type=application%2Fzip&X-Amz-Signature=b7c437eee4a9efce09b3aa3c826533798ad8ef3db04dc3c1ac764ed4b7fbb512</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.aljeri.jcs</string>
+                <key>bundle-version</key>
+                <string>1.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Jeri Car Services</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
